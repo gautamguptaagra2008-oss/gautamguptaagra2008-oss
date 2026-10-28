@@ -2,7 +2,7 @@
 
 B.Tech CSE (Data Science) student at GL Bajaj Institute of Technology and Management, Greater Noida.
 
-- Learning C++17, DSA, Git and open source
+- Learning C++17, DSA, Linux, Git and open source
 - Working toward Google Summer of Code 2027
 - DSA practice in C++: [cpp-dsa](https://github.com/gautamguptaagra2008-oss/cpp-dsa)
 
